@@ -32,4 +32,4 @@ copy and paste code and press enter
 
 step 5 ;-
 
-click on dino , press and enjoy
+click on dino , press space and enjoy
