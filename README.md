@@ -34,4 +34,4 @@ step 5 ;-
 
 click on dino , press space and enjoy
 
-if you dont want inspect pannel after doing this process you can , it wont affect the game
+if you dont want inspect pannel after doing this process you can close it , it wont affect the game
